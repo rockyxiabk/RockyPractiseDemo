@@ -1,4 +1,4 @@
-import  practise
+import practise
 if __name__ == '__main__':
     print("start.....")
     # practise.printDiffNumber()
